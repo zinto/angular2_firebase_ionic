@@ -1,0 +1,1 @@
+# angular2_firebase_ionic
